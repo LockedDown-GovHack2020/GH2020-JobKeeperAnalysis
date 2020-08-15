@@ -1,0 +1,7 @@
+# Files
+.zip
+
+# Directories
+.ipynb_checkpoints/
+venv
+temp
